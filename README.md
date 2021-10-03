@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: nothing intersting here
 
 Skills
-PHP, Laravel, MySQL, HTML, CSS, Bootstrap, JQuery, Vue.js
+- PHP, Laravel, MySQL, HTML, CSS, Bootstrap, JQuery, Vue.js
