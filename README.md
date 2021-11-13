@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on myself for myself
 - 🌱 I’m currently learning PHP, Laravel, Vue.js
-- 🎯 2021 Goals To Become a Full-Stack Developer
+- 🎯 Goals To Become a Full-Stack Developer
 - 📫 How to reach me: siddikimraan@gmail.com
 - ⚡ Fun fact: nothing intersting here
 
