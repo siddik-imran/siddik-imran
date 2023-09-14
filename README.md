@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on myself for myself
 
-- 🌱 I’m currently learning **JavaScript, Vue.js**
+- 🌱 I’m currently learning **Vue.js**
 
-- 🎯 Goal to become a full stack devloper
+- 🎯 Goal to become a full stack developer
 
 - 📫 How to reach me **siddikimraan@gmail.com**
 
