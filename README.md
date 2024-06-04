@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imran Hasan Siddiki</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on myself for myself
-
 - 🌱 I’m currently learning **Vue.js**, **Livewire**
 
 - 🎯 Goal to become a full stack developer
