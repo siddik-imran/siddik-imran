@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning **Vue.js**, **Livewire**
 
 - 🎯 Goal to become a full stack developer
-- 
-- - 📫 How to reach me **imranemail087@gmail.com**
+  
+- 📫 How to reach me **imranemail087@gmail.com**
 
 - 📫 How to reach me **siddikimraan@gmail.com**
 
