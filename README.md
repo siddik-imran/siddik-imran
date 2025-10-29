@@ -5,9 +5,7 @@
 
 - 🎯 Goal to become a full stack developer
   
-- 📫 How to reach me **imranemail087@gmail.com**
-
-- 📫 How to reach me **siddikimraan@gmail.com**
+- 📫 How to reach me  **siddikimraan@gmail.com** | **imranemail087@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
