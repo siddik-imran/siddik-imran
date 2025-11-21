@@ -15,7 +15,8 @@ I work with **Laravel, PHP, MySQL, React.js, Vue.js, and modern front-end techno
   - Learning management systems  
   - Event management systems  
   - CRM and booking systems  
-  - Mobile beauty service platforms  
+  - Mobile beauty service platforms
+  - Ecommerce Platform
 - 🎯 Goal: Grow as a senior full-stack engineer  
 - 📫 Reach me at **siddikimraan@gmail.com**
 
@@ -71,12 +72,6 @@ A platform where users can book spaces, check availability, and manage reservati
 #### 📌 **Fineme — Mobile Beauty Service**
 A salon management and mobile beauty service app allowing users to book appointments and enjoy beauty services at home.
 
----
-
-### 📊 GitHub Stats (Optional – Enable If You Want)
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=siddik-imran&show_icons=true&theme=default" alt="GitHub Stats"/>
-</p>
 
 ---
 
